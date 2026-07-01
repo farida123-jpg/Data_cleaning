@@ -1,2 +1,2 @@
-# Data_cleaning
-in this project, i learnt pandas 
+# pandas
+in this project, ilearnt pandas 
